@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rukhsana Shah
 
-🎨 **Front-End Developer | [X]+ Years Experience**  
+🎨 **Front-End Developer | 3+ Years Experience**  
 Passionate about crafting beautiful, responsive user interfaces and delivering exceptional user experiences.  
 I work with **React, Next.js, TypeScript, and modern CSS frameworks** to build fast, accessible web applications.  
 
